@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@theme {
+  --font-family-barlowsemi: "Barlow Semi Condensed", sans-serif;
+  --color-violet: hsl(263, 55%, 52%);
+  --color-grayishblue: hsl(217, 19%, 35%);
+  --color-darkblue: hsl(219, 29%, 14%);
+  --color-gray: hsl(0, 0%, 81%);
+  --color-lightblue: hsl(210, 46%, 95%);
+}
